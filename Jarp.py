@@ -19,7 +19,7 @@ from geopy.geocoders import Nominatim #to geo-locate addresses
 def talkToMe(audio):
     "speaks audio passed as argument"
 
-    
+
     jarp_speak(audio)
     for line in audio.splitlines():
         os.system("say " + audio)
