@@ -32,6 +32,7 @@ def talkToMe(audio):
 
 
     
+    
 def myCommand(ask = False):
     "listens for commands"
 
