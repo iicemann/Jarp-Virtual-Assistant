@@ -12,3 +12,4 @@ with open('test.py', 'w') as f:
 	f.write("".join(lines))
 	#f.write('\nprint(a+1)')
 	#f.write('\nif a == 1: print(\'a=1\')')
+	
