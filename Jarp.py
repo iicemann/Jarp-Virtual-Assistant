@@ -30,7 +30,7 @@ def talkToMe(audio):
     #  os.system('mpg123 audio.mp3')
 
 
-    
+  
   
 def myCommand(ask = False):
     "listens for commands"
