@@ -15,3 +15,4 @@ else:
 	  # extracting result from pod1
 		result = pod1['subpod']['plaintext']
 		print(result)
+		print
