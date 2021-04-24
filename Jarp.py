@@ -21,7 +21,7 @@ def talkToMe(audio):
 
     jarp_speak(audio)
     for line in audio.splitlines():
-        os.system("say " + audio)
+        os.system("say " + audio )
 
         
     #  use the system's inbuilt say command instead of mpg123
